@@ -214,9 +214,9 @@ class Common(Configuration):
 
 
     # AWS Credentials from environment variables
-    AWS_ACCESS_KEY_ID = 'AKIAW3MED64KAWA6Z2GM'
-    AWS_SECRET_ACCESS_KEY = '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'
-    AWS_DEFAULT_REGION = 'eu-west-3'
+    AWS_ACCESS_KEY_ID = ''
+    AWS_SECRET_ACCESS_KEY = ''
+    AWS_DEFAULT_REGION = ''
 
 
     
